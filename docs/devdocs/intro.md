@@ -5,23 +5,25 @@ displayed_sidebar: docsSidebar
 
 # Overview
 
-Welcome to the Fhenix documents! These docs should have everything you need to get started and create smart contracts that use FHE with encrypted data!&#x20;
+Thank you for your interest in Fhenix! These documents contain everything you need to set up your environment and get started  creating smart contracts that use FHE with encrypted data!&#x20;
 
 :::tip[Tip]
-For questions & support [join our Discord](https://discord.gg/q4C5CzkdY7)!
+For questions, comments, and support, [join our Discord](https://discord.gg/q4C5CzkdY7)!
 :::
 
-Here we'll explain everything about how to use Fhenix and how to use FHE to create privacy-preserving Web3 applications. We include an extension to the Ethereum Virtual Machine (EVM) that introduces operations on encrypted data using Fully Homomorphic Encryption (FHE). We've added special precompiles to the EVM that allow computations on encrypted data without the need for decryption.
+We explain how to use Fhenix with FHE to create privacy-preserving Web3 applications. We include an Ethereum Virtual Machine (EVM) extension that enables operations on encrypted data using Fully Homomorphic Encryption (FHE). In addition, we have added special precompiles to the EVM that allow computations on encrypted data without the need for decryption.
 
-The integration of the FHE with Solidity means you can continue to write your smart contracts with familiar syntax while leveraging the capabilities of FHE.
+We have also integrated FHE with Solidity. This means you can continue writing smart contracts with familiar syntax, while leveraging FHE capabilities.
 
-In this documentation, you'll find guidance on operating on encrypted data, understanding patterns in FHE-friendly code writing, and access control in FHE-based smart contracts. Let's get started.
+This documentation contains guidance on operating on encrypted data, understanding patterns in FHE-friendly code, and access control in FHE-based smart contracts. 
+
+Let's get started.
 
 ## Quick links
 
-[fhenix-and-t-fhe.md](Fhenix%20Frontier/Fhenix-T-FHE.md)
+[Fhenix & (T)FHE](Fhenix%20Frontier/Fhenix-T-FHE.md)
 
-[connecting-to-the-testnet.md](Fhenix%20Frontier/Connecting-To.md)
+[Connecting to Fhenix Frontier.md](Fhenix%20Frontier/Connecting-To.md)
 
 ## Get Started
 
